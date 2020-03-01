@@ -1,0 +1,4 @@
+Heroes of Pymoli 
+
+The data presents that men between the ages 15-19 and 20-24 are the most common purchasers. 
+The older a person is the less purchases of this specific type of game. 
